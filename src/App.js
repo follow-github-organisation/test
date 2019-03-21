@@ -25,7 +25,7 @@ class App extends Component {
                                     <span className="icon">
                                       <i className="fab fa-github"></i>
                                     </span>
-                                    <span>GitHub</span>
+                                    <span><a href="https://github.com/follow-github-organisation/follow-github-organisation/" target={'_blank'}>GitHub</a></span>
                                   </a>
                                 </span>
                             </div>
@@ -37,7 +37,7 @@ class App extends Component {
             <div className="hero-body">
                 <div className="container has-text-centered">
                     <p className="title">
-                        Follow GitHub Organisation
+                        <a href="https://github.com/follow-github-organisation/follow-github-organisation/" target={'_blank'}>Follow GitHub Organisation</a>
                     </p>
                     <p className="subtitle">
                         Get notified when a new repository is created in a GitHub organisation
