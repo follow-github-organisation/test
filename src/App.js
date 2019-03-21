@@ -5,22 +5,61 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+        <section className="hero is-light is-large">
+            <div className="hero-head">
+                <nav className="navbar">
+                    <div className="container">
+                        <div className="navbar-brand">
+                            <a className="navbar-item">
+                                {/*<img src="https://bulma.io/images/bulma-type-white.png" alt="Logo"/>*/}
+                            </a>
+                            <span className="navbar-burger burger" data-target="navbarMenuHeroB"></span>
+                        </div>
+                        <div id="navbarMenuHeroB" className="navbar-menu">
+                            <div className="navbar-end">
+                                <a className="navbar-item">
+                                    How it works?
+                                </a>
+                                <span className="navbar-item">
+                                  <a className="button is-info is-inverted">
+                                    <span className="icon">
+                                      <i className="fab fa-github"></i>
+                                    </span>
+                                    <span>GitHub</span>
+                                  </a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+
+            <div className="hero-body">
+                <div className="container has-text-centered">
+                    <p className="title">
+                        Follow GitHub Organisation
+                    </p>
+                    <p className="subtitle">
+                        Get notified when a new repository is created in a GitHub organisation
+                    </p>
+                </div>
+            </div>
+
+            {/*<div className="hero-foot">*/}
+                {/*<div className="container has-text-centered">*/}
+                    {/*<div className="field">*/}
+                        {/*<div className="control has-icons-left has-icons-right">*/}
+                            {/*<input className="input is-medium" type="email" placeholder="Paste GitHub Organisation Link"/>*/}
+                            {/*<span className="icon is-medium is-left">*/}
+                              {/*<i className="fab fa-github"></i>*/}
+                            {/*</span>*/}
+                            {/*<a className="button is-white">Follow</a>*/}
+                        {/*</div>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+            {/*</div>*/}
+
+        </section>
     );
   }
 }
