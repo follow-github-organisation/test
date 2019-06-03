@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 02:07:48 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 22:40:16 +0530</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>repo-1-test</title>
+      <link>http://example.org/organisations/twitter/repo-1/</link>
+      <pubDate>Sun, 19 May 2019 22:40:16 +0530</pubDate>
+      
+      <guid>http://example.org/organisations/twitter/repo-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>fb repo 1</title>
@@ -53,6 +62,15 @@
       <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
       
       <guid>http://example.org/organisations/github/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tmp repo 1</title>
+      <link>http://example.org/organisations/tmp/repo-1/</link>
+      <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
+      
+      <guid>http://example.org/organisations/tmp/repo-1/</guid>
       <description></description>
     </item>
     
