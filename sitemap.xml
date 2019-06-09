@@ -3,77 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/organisations/twitter/</loc>
-    <lastmod>2019-05-19T22:40:16+05:30</lastmod>
+    <loc>http://followgithub.org/organisations/projectborealis/</loc>
+    <lastmod>2019-06-06T12:22:21+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/organisations/twitter/repo-1/</loc>
-    <lastmod>2019-05-19T22:40:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/facebook/</loc>
+    <loc>http://followgithub.org/organisations/facebook/</loc>
     <lastmod>2019-04-07T02:07:48+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/organisations/github/</loc>
+    <loc>http://followgithub.org/organisations/github/</loc>
     <lastmod>2019-04-07T02:07:48+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/organisations/tmp/</loc>
+    <loc>http://followgithub.org/</loc>
     <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/facebook/repo-1/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/facebook/repo-2/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/facebook/repo-3/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/github/repo-1/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/github/repo-2/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/tmp/repo-1/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organisations/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-05-19T22:40:16+05:30</lastmod>
+    <loc>http://followgithub.org/organisations/facebook/repo-1/</loc>
+    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/facebook/repo-2/</loc>
+    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/facebook/repo-3/</loc>
+    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/github/repo-1/</loc>
+    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/github/repo-2/</loc>
+    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/</loc>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://followgithub.org/tags/</loc>
     <priority>0</priority>
   </url>
   
