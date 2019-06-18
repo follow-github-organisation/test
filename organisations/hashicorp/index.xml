@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/hashicorp/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:46:40 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/hashicorp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>circonus-gometrics</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-14/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consul-k8s-l7-obs-guide</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-8/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consul-smi-controller</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-7/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>da-instruqt-observability</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-13/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>da-instruqt-packer</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-5/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>da-instruqt-tracks</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-4/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fast_jsonapi</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-6/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go-github-actions</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>packet-custom-image-tbw</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raft-fuzzy</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-12/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renovate-configs</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-3/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>se-terraform-vault-workshop</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-11/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vault-plugin-auth-kerberos</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-10/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vault-plugin-auth-pcf</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-9/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vault-plugin-database-elasticsearch</title>
+      <link>http://followgithub.org/organisations/hashicorp/repo-15/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:40 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/hashicorp/repo-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

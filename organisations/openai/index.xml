@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/openai/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:47:47 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/openai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gpt-2-output-dataset</title>
+      <link>http://followgithub.org/organisations/openai/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:47 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/openai/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml-agents</title>
+      <link>http://followgithub.org/organisations/openai/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:47 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/openai/repo-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

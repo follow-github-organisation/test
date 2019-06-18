@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/friends-of-prestashop/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2019 13:31:12 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/friends-of-prestashop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

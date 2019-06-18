@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/tencent/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:46:46 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/tencent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DCache</title>
+      <link>http://followgithub.org/organisations/tencent/repo-3/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:46 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tencent/repo-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LuaPanda</title>
+      <link>http://followgithub.org/organisations/tencent/repo-4/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:46 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tencent/repo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PySC2TencentExtension</title>
+      <link>http://followgithub.org/organisations/tencent/repo-6/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:46 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tencent/repo-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QT4W</title>
+      <link>http://followgithub.org/organisations/tencent/repo-5/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:46 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tencent/repo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bk-ci</title>
+      <link>http://followgithub.org/organisations/tencent/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:46 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tencent/repo-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iHearing</title>
+      <link>http://followgithub.org/organisations/tencent/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:46 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tencent/repo-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

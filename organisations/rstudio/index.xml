@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/rstudio/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:46:51 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R4ArtSundays</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>colourpicker</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-3/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gotestcover</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-4/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-tourmaline</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-11/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leaflet.mapboxgl</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-7/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-builds</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-5/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-docker</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-9/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radix</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-10/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsc-hello-world-content</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-6/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rscloud</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testShinyExamples</title>
+      <link>http://followgithub.org/organisations/rstudio/repo-8/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:51 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/rstudio/repo-8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

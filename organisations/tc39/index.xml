@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/tc39/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:46:58 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/tc39/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>proposal-array-is-template-object</title>
+      <link>http://followgithub.org/organisations/tc39/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:58 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tc39/repo-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proposal-collection-normalization</title>
+      <link>http://followgithub.org/organisations/tc39/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:58 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tc39/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proposal-intl-displaynames</title>
+      <link>http://followgithub.org/organisations/tc39/repo-6/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:58 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tc39/repo-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proposal-iterator-helpers</title>
+      <link>http://followgithub.org/organisations/tc39/repo-5/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:58 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tc39/repo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proposal-private-declarations</title>
+      <link>http://followgithub.org/organisations/tc39/repo-4/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:58 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tc39/repo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proposal-promise-any</title>
+      <link>http://followgithub.org/organisations/tc39/repo-3/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:58 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/tc39/repo-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

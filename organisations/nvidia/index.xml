@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/nvidia/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:46:24 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CUDALibrarySamples</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-8/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContrastiveLosses4VRD</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-18/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL4AGX</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-12/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korgi</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-4/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megatron-LM</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-16/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVIDIAOpticalFlowSDK</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-7/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVSM</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-6/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q2RTX</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-5/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisRTX</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-17/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible-role-nvidia-docker</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-9/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible-role-nvidia-driver</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-10/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compute-sanitizer-samples</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-21/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dgx-selinux</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-22/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dlinput-tf</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-3/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go-gpuallocator</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gpu-feature-discovery</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-11/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ising-gpu</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jetson-gpio</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-15/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jetson-rdma-picoevb</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-14/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-gpu-doc</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-13/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retinanet-examples</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-20/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow-determinism</title>
+      <link>http://followgithub.org/organisations/nvidia/repo-19/</link>
+      <pubDate>Sun, 16 Jun 2019 17:46:24 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nvidia/repo-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

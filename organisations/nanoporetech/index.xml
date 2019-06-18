@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/nanoporetech/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 17:47:36 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/nanoporetech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>marine-phage-paper-scripts</title>
+      <link>http://followgithub.org/organisations/nanoporetech/repo-2/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:36 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nanoporetech/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline-polya-diff</title>
+      <link>http://followgithub.org/organisations/nanoporetech/repo-4/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:36 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nanoporetech/repo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline-polya-ng</title>
+      <link>http://followgithub.org/organisations/nanoporetech/repo-5/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:36 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nanoporetech/repo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline-pychopper</title>
+      <link>http://followgithub.org/organisations/nanoporetech/repo-3/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:36 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nanoporetech/repo-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>u-boot</title>
+      <link>http://followgithub.org/organisations/nanoporetech/repo-1/</link>
+      <pubDate>Sun, 16 Jun 2019 17:47:36 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/nanoporetech/repo-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
