@@ -6,10 +6,28 @@
     <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 19:20:33 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 20:04:20 +0530</lastBuildDate>
     
 	<atom:link href="http://followgithub.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>minijail</title>
+      <link>http://followgithub.org/organisations/google/repo-1/</link>
+      <pubDate>Tue, 18 Jun 2019 20:04:20 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/google/repo-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure-cef</title>
+      <link>http://followgithub.org/organisations/azure/repo-1/</link>
+      <pubDate>Tue, 18 Jun 2019 19:50:29 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/azure/repo-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>aws-event-bucket-throttle</title>
@@ -2195,51 +2213,6 @@
       <pubDate>Sun, 16 Jun 2019 15:54:15 +0530</pubDate>
       
       <guid>http://followgithub.org/organisations/microsoftgraph/repo-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fb repo 1</title>
-      <link>http://followgithub.org/organisations/facebook/repo-1/</link>
-      <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
-      
-      <guid>http://followgithub.org/organisations/facebook/repo-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fb repo 2</title>
-      <link>http://followgithub.org/organisations/facebook/repo-2/</link>
-      <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
-      
-      <guid>http://followgithub.org/organisations/facebook/repo-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fb repo 3</title>
-      <link>http://followgithub.org/organisations/facebook/repo-3/</link>
-      <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
-      
-      <guid>http://followgithub.org/organisations/facebook/repo-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gh repo 1</title>
-      <link>http://followgithub.org/organisations/github/repo-1/</link>
-      <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
-      
-      <guid>http://followgithub.org/organisations/github/repo-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gh repo 2</title>
-      <link>http://followgithub.org/organisations/github/repo-2/</link>
-      <pubDate>Sun, 07 Apr 2019 02:07:48 +0530</pubDate>
-      
-      <guid>http://followgithub.org/organisations/github/repo-2/</guid>
       <description></description>
     </item>
     

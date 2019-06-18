@@ -3,9 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://followgithub.org/organisations/google/</loc>
+    <lastmod>2019-06-18T20:04:20+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://followgithub.org/</loc>
-    <lastmod>2019-06-18T19:20:33+05:30</lastmod>
+    <lastmod>2019-06-18T20:04:20+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/google/repo-1/</loc>
+    <lastmod>2019-06-18T20:04:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/azure/</loc>
+    <lastmod>2019-06-18T19:50:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/azure/repo-1/</loc>
+    <lastmod>2019-06-18T19:50:29+05:30</lastmod>
   </url>
   
   <url>
@@ -1421,41 +1441,6 @@
   <url>
     <loc>http://followgithub.org/organisations/projectborealis/</loc>
     <lastmod>2019-06-06T12:22:21+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/facebook/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/github/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/facebook/repo-1/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/facebook/repo-2/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/facebook/repo-3/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/github/repo-1/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://followgithub.org/organisations/github/repo-2/</loc>
-    <lastmod>2019-04-07T02:07:48+05:30</lastmod>
   </url>
   
   <url>
