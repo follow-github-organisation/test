@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/elastic/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2019 18:00:15 +0530</lastBuildDate>
+    
+	<atom:link href="http://followgithub.org/organisations/elastic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>homebrew-tap</title>
+      <link>http://followgithub.org/organisations/elastic/repo-2/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:18 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/elastic/repo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homebrew-tap</title>
+      <link>http://followgithub.org/organisations/elastic/repo-1/</link>
+      <pubDate>Thu, 20 Jun 2019 18:00:15 +0530</pubDate>
+      
+      <guid>http://followgithub.org/organisations/elastic/repo-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

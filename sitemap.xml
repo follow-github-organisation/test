@@ -3,14 +3,524 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://followgithub.org/organisations/google/</loc>
-    <lastmod>2019-06-18T20:04:20+05:30</lastmod>
+    <loc>http://followgithub.org/organisations/follow-github-organisation/</loc>
+    <lastmod>2019-06-23T08:41:21+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://followgithub.org/</loc>
-    <lastmod>2019-06-18T20:04:20+05:30</lastmod>
+    <lastmod>2019-06-23T08:41:21+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/follow-github-organisation/repo-1/</loc>
+    <lastmod>2019-06-23T08:41:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/fastai/</loc>
+    <lastmod>2019-06-22T18:00:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/fastai/repo-1/</loc>
+    <lastmod>2019-06-22T18:00:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/rocketchat/repo-2/</loc>
+    <lastmod>2019-06-22T18:00:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/shopify/</loc>
+    <lastmod>2019-06-22T00:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/shopify/repo-1/</loc>
+    <lastmod>2019-06-22T00:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/awslabs/repo-31/</loc>
+    <lastmod>2019-06-22T00:00:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/elastic/repo-2/</loc>
+    <lastmod>2019-06-22T00:00:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/ms-iot/</loc>
+    <lastmod>2019-06-22T00:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/ms-iot/repo-3/</loc>
+    <lastmod>2019-06-22T00:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/ms-iot/repo-2/</loc>
+    <lastmod>2019-06-22T00:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/ms-iot/repo-1/</loc>
+    <lastmod>2019-06-22T00:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-11/</loc>
+    <lastmod>2019-06-22T00:00:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/nytimes/</loc>
+    <lastmod>2019-06-22T00:00:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/nytimes/repo-1/</loc>
+    <lastmod>2019-06-22T00:00:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/google/repo-2/</loc>
+    <lastmod>2019-06-22T00:00:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/google/repo-3/</loc>
+    <lastmod>2019-06-22T00:00:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/rocketchat/</loc>
+    <lastmod>2019-06-21T18:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/rocketchat/repo-1/</loc>
+    <lastmod>2019-06-21T18:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/awslabs/repo-30/</loc>
+    <lastmod>2019-06-21T18:00:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/dotnet/</loc>
+    <lastmod>2019-06-21T18:00:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/dotnet/repo-1/</loc>
+    <lastmod>2019-06-21T18:00:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/facebookresearch/</loc>
+    <lastmod>2019-06-21T18:00:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/facebookresearch/repo-1/</loc>
+    <lastmod>2019-06-21T18:00:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-10/</loc>
+    <lastmod>2019-06-21T18:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-9/</loc>
+    <lastmod>2019-06-21T18:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/sandialabs/</loc>
+    <lastmod>2019-06-21T14:05:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/w3c/</loc>
+    <lastmod>2019-06-21T12:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/w3c/repo-1/</loc>
+    <lastmod>2019-06-21T12:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/tencent/repo-7/</loc>
+    <lastmod>2019-06-21T12:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-21/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-20/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-19/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-18/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-17/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-16/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-15/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-14/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-13/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-12/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-31/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-30/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-29/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-28/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-27/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-26/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-25/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-24/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-23/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-22/</loc>
+    <lastmod>2019-06-21T12:00:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-8/</loc>
+    <lastmod>2019-06-21T12:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/bytedance/repo-3/</loc>
+    <lastmod>2019-06-21T06:00:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/arenanet/</loc>
+    <lastmod>2019-06-21T00:00:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/arenanet/repo-1/</loc>
+    <lastmod>2019-06-21T00:00:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/wicg/repo-8/</loc>
+    <lastmod>2019-06-21T00:00:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/aws/</loc>
+    <lastmod>2019-06-21T00:00:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/aws/repo-1/</loc>
+    <lastmod>2019-06-21T00:00:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/awslabs/repo-29/</loc>
+    <lastmod>2019-06-21T00:00:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/azure/repo-3/</loc>
+    <lastmod>2019-06-21T00:00:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/azure/repo-2/</loc>
+    <lastmod>2019-06-21T00:00:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-7/</loc>
+    <lastmod>2019-06-21T00:00:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/twitter/</loc>
+    <lastmod>2019-06-21T00:00:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/twitter/repo-1/</loc>
+    <lastmod>2019-06-21T00:00:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/leggedrobotics/</loc>
+    <lastmod>2019-06-20T18:00:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/leggedrobotics/repo-1/</loc>
+    <lastmod>2019-06-20T18:00:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/leggedrobotics/repo-2/</loc>
+    <lastmod>2019-06-20T18:00:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/nanoporetech/repo-6/</loc>
+    <lastmod>2019-06-20T18:00:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/bytedance/</loc>
+    <lastmod>2019-06-20T18:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/bytedance/repo-1/</loc>
+    <lastmod>2019-06-20T18:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/bytedance/repo-2/</loc>
+    <lastmod>2019-06-20T18:00:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/elastic/</loc>
+    <lastmod>2019-06-20T18:00:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/elastic/repo-1/</loc>
+    <lastmod>2019-06-20T18:00:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/mozilla/</loc>
+    <lastmod>2019-06-20T18:00:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/mozilla/repo-2/</loc>
+    <lastmod>2019-06-20T18:00:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/mozilla/repo-1/</loc>
+    <lastmod>2019-06-20T18:00:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/italia/</loc>
+    <lastmod>2019-06-20T12:00:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/italia/repo-1/</loc>
+    <lastmod>2019-06-20T12:00:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/cloudflare/</loc>
+    <lastmod>2019-06-20T12:00:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/cloudflare/repo-1/</loc>
+    <lastmod>2019-06-20T12:00:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-11/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-10/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-9/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-8/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-7/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-6/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-5/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-4/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-3/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-2/</loc>
+    <lastmod>2019-06-20T12:00:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-6/</loc>
+    <lastmod>2019-06-20T12:00:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/alibaba/</loc>
+    <lastmod>2019-06-20T12:00:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/alibaba/repo-1/</loc>
+    <lastmod>2019-06-20T12:00:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoft/repo-5/</loc>
+    <lastmod>2019-06-20T06:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/nuxt-community/repo-2/</loc>
+    <lastmod>2019-06-20T00:00:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/nuxt-community/</loc>
+    <lastmod>2019-06-20T00:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/nuxt-community/repo-1/</loc>
+    <lastmod>2019-06-20T00:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/creativecommons/</loc>
+    <lastmod>2019-06-20T00:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/creativecommons/repo-1/</loc>
+    <lastmod>2019-06-20T00:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/hashicorp/repo-16/</loc>
+    <lastmod>2019-06-20T00:00:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/</loc>
+    <lastmod>2019-06-20T00:00:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/microsoftdocs/repo-1/</loc>
+    <lastmod>2019-06-20T00:00:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/google/</loc>
+    <lastmod>2019-06-18T20:04:20+05:30</lastmod>
   </url>
   
   <url>

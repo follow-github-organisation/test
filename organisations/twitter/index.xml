@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/organisations/twitter/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Follow GitHub Organization | Get notified on new repository creation</title>
+    <link>http://followgithub.org/organisations/twitter/</link>
+    <description>Recent content on Follow GitHub Organization | Get notified on new repository creation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2019 22:40:16 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:00:03 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/organisations/twitter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://followgithub.org/organisations/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>repo-1-test</title>
-      <link>http://example.org/organisations/twitter/repo-1/</link>
-      <pubDate>Sun, 19 May 2019 22:40:16 +0530</pubDate>
+      <title>curation-style-guide</title>
+      <link>http://followgithub.org/organisations/twitter/repo-1/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:03 +0530</pubDate>
       
-      <guid>http://example.org/organisations/twitter/repo-1/</guid>
+      <guid>http://followgithub.org/organisations/twitter/repo-1/</guid>
       <description></description>
     </item>
     
