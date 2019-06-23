@@ -3,14 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://followgithub.org/organisations/follow-github-organisation/</loc>
-    <lastmod>2019-06-23T08:41:21+05:30</lastmod>
+    <loc>http://followgithub.org/</loc>
+    <lastmod>2019-06-23T16:11:14+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://followgithub.org/</loc>
+    <loc>http://followgithub.org/organisations/unity-technologies/repo-2/</loc>
+    <lastmod>2019-06-23T16:11:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/owasp/repo-10/</loc>
+    <lastmod>2019-06-23T12:00:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/unity-technologies/</loc>
+    <lastmod>2019-06-23T12:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/unity-technologies/repo-1/</loc>
+    <lastmod>2019-06-23T12:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://followgithub.org/organisations/follow-github-organisation/</loc>
     <lastmod>2019-06-23T08:41:21+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
