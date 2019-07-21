@@ -1,267 +1,259 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
+<html>
+<head>
+    <title>Follow GitHub Organization | Get notified when a repository is created</title>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>Follow GitHub Organization | Get notified on new repository creation </title>
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="YyXy_IQR8Dg9kLfgwbhr1oLvcbAiXGMrwf1ffxXUnP4" />
+    <meta name="author" content="Pravendra Singh (@hackpravj)" />
+    <meta name="description" content="Follow Github Organization allows you to follow a GitHub organization like a normal user. You will get organization activities in your GitHub feed." />
+    <meta name="keywords" content="github,follow,open source,extension,chrome,firefox,follow github,github organization,follow user,plugin,software,download" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48537986-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.55.6" />
-    
-    
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-    
+        gtag('config', 'UA-48537986-5');
+    </script>
 
-    
 
-    
-    
-      
-    
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="./css/uikit.min.css" />
 
-    
+    <style type="text/css">
+        .btn-custom {
+            background-color: #f8f8f8;
+            color: black;
+            border: 2px solid #f4f4f4;
+            border-radius: 4px;
+        }
 
-    
+        .btn-custom:hover {
+            box-shadow: 0 10px 20px 0 #f4f4f4;
+            transform: translate(0px, -1px);
+        }
 
-    
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    
+        .free-price-btn {
+            border: none;
+        }
+    </style>
 
-    
-      
-    
+    <!-- UIkit JS -->
+    <script src="./js/uikit.min.js"></script>
+    <script src="./js/uikit-icons.min.js"></script>
+</head>
+<body>
 
-    
-      <link href="http://followgithub.org/index.xml" rel="alternate" type="application/rss+xml" title="Follow GitHub Organization | Get notified on new repository creation" />
-      <link href="http://followgithub.org/index.xml" rel="feed" type="application/rss+xml" title="Follow GitHub Organization | Get notified on new repository creation" />
-    
+    <nav class="uk-navbar-container uk-margin" uk-navbar>
+        <div class="uk-navbar-left">
 
-    <meta property="og:title" content="Follow GitHub Organization | Get notified on new repository creation" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://followgithub.org/" />
+            <a class="uk-navbar-item uk-logo" style="text-decoration: underline;text-decoration-color: blue;" href="#">followgithub.org</a>
 
-<meta property="og:updated_time" content="2019-06-23T16:11:14&#43;05:30"/>
+        </div>
+        <div class="uk-navbar-right">
 
-<meta itemprop="name" content="Follow GitHub Organization | Get notified on new repository creation">
-<meta itemprop="description" content="">
+            <div class="uk-navbar-item">
+                <a class="uk-button uk-button-default uk-visible@m" href="#download-section" uk-scroll>Download</a>
+            </div>
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Follow GitHub Organization | Get notified on new repository creation"/>
-<meta name="twitter:description" content=""/>
+            <ul class="uk-navbar-nav">
+                <li>
+                    <a class="uk-navbar-item uk-logo uk-visible@m" href="#how-it-works-section" uk-scroll>How it works?</a>
+                </li>
+                <li>
+                    <a class="uk-navbar-item uk-logo uk-visible@m" href="#faq-section" uk-scroll>FAQ</a>
+                </li>
+                <li>
+                    <span class="uk-navbar-item uk-margin-small-right uk-hidden@m" uk-toggle="target: #offcanvas-slide" uk-icon="menu"></span>
+                </li>
+            </ul>
 
-  </head>
+        </div>
+    </nav>
 
-  
-  <body>
-
-    
-    
-    
-  <nav class="navbar navbar-expand-lg navbar-light bg-white justify-content-center">
-    <a class="navbar-brand font-weight-light" href="#">
-      
-      <b>Follow GitHub Organisation</b>
-    </a>
-  </nav>
-
-  <div class="jumbotron jumbotron-fluid bg-white my-4">
-    <div class="container">
-      <p class="lead text-center">Get notified when a new repository is created in a GitHub organisation</p>
-    </div>
-  </div>
-
-  <div class="container container-fluid">
-    <div class="row justify-content-center">
-      <input class="col-10 col-md-8 form-control my-2" type="search" placeholder="Enter Organisation Link" aria-label="Search">
-      <button class="btn btn-dark btn-sm col-3 col-md-1 my-2 mx-2" type="submit">Search</button>
-    </div>
-  </div>
-
-  <div class="container container-fluid">
-    <hr class="my-4">
-    <div class="row my-2 justify-content-center">
-      <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item">
-          <a class="nav-link active font-weight-light" id="recent-tab" data-toggle="tab" href="#recent" role="tab" aria-controls="recent" aria-selected="true">Recently created repositories</a>
-        </li>
-      </ul>
-      <div class="tab-content" id="myTabContent">
-        <div class="tab-pane fade show active" id="recent" role="tabpanel" aria-labelledby="recent-tab"></div>
-      </div>
+    <div class="uk-flex-middle" uk-grid>
+        <div class="uk-width-1-2@m uk-text-center uk-text-left@m">
+            <h1>How to follow <br> GitHub <mark>organization</mark>?</h1>
+            <p>Follow your favorite GitHub organizations and receive activities in the main feed</p>
+            <div>
+                <ul class="uk-thumbnav uk-visible@m" uk-margin>
+                    <li><span class="uk-label" style="cursor: pointer;">coming soon</span></li>
+                    <li class="uk-active"><a href="#"><img src="images/chrome-icon.svg" width="32" height="32" alt=""></a></li>
+                    <li class="uk-active"><a href="#"><img src="images/firefox-icon.svg" width="32" height="32" alt=""></a></li>
+                </ul>
+            </div>
+            <a class="uk-button uk-button-default uk-hidden@m" href="#download-section" uk-scroll>DOWNLOAD</a>
+        </div>
+        <div class="uk-width-1-2@m uk-flex-first">
+            <img src="images/home-page-background.png" alt="Image">
+        </div>
     </div>
 
-    <div class="row my-2 justify-content-center">
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/unity-technologies">Unity Technologies</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/Unity-Technologies/hw19-convex">hw19-convex</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">NA</p>
-          </div>
+    <hr>
+
+    <div id="offcanvas-slide" uk-offcanvas="mode: slide; overlay: true">
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+            <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                <li>
+                    <a class="uk-navbar-item uk-logo" href="#download-section" uk-scroll>Download</a>
+                </li>
+                <li>
+                    <a class="uk-navbar-item uk-logo" href="#how-it-works-section" uk-scroll>How it works?</a>
+                </li>
+                <li>
+                    <a class="uk-navbar-item uk-logo" href="#faq-section" uk-scroll>FAQ</a>
+                </li>
+            </ul>
+
         </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/ms-iot">Microsoft IoT</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/ms-iot/ecl_lite">ecl_lite</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">The ecl-lite stack includes packages with few dependencies on either system or c&#43;&#43; functionality. This makes it ideal for very embedded builds where many of the usual mechanisms are unavailable.  </p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/ms-iot">Microsoft IoT</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/ms-iot/kobuki_core">kobuki_core</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">Core (non-ros) kobuki packages.</p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/ms-iot">Microsoft IoT</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/ms-iot/yujin_ocs">yujin_ocs</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">Yujin Robot&#39;s open-source control libraries</p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/microsoft">Microsoft</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/microsoft/pxt-react-extension-template">pxt-react-extension-template</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">A React-based MakeCode Extension</p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/nytimes">The New York Times</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/nytimes/data-training">data-training</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">Files from the NYT data training program, available for public use. </p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/google">Google</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/google/unsmear">unsmear</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">Converts to and from timescales with smeared leap seconds</p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/google">Google</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/google/kleaver">kleaver</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">Kleaver is an experimental tool for managing out-of-tree kernel modules.</p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/rocketchat">Rocket.Chat</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/RocketChat/alexa-rocketchat-flashbriefing">alexa-rocketchat-flashbriefing</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">Anywhere anytime Alexa flash briefing publishing - powered by Rocket.Chat</p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-5 my-2">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/organization.svg" class="img-fluid" alt="Responsive image">
-              <a href="/organisations/unity-technologies">Unity Technologies</a>
-            </h5>
-            <h6 class="card-title text-truncate">
-              <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" class="img-fluid" alt="Responsive image">
-              <a href="https://github.com/Unity-Technologies/hw19-dots-gamejam-voxel-game">hw19-dots-gamejam-voxel-game</a>
-            </h6>
-            <p class="card-text text-truncate font-weight-light">NA</p>
-          </div>
-        </div>
-      </div>
-      
     </div>
 
-  </div>
+    <div class="uk-container uk-padding" id="how-it-works-section">
+        <h2 class="uk-heading-divider">How it works</h2>
+        <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+            <div class="uk-card-media-left uk-cover-container">
+                <img src="images/follow-org.svg" alt="" uk-cover>
+                <canvas width="300" height="200"></canvas>
+            </div>
+            <div>
+                <div class="uk-card-body">
+                    <h3 class="uk-card-title">How to follow an organization?</h3>
+                    <p>Go to an organization page, click on the "Follow" button in the top right if you want to see the new activities by that organization in your feed.</p>
+                </div>
+            </div>
+        </div>
 
+        <hr class="uk-divider-icon">
 
-    
-    
-  </body>
+        <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+            <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
+                <img src="images/feed-activities.svg" alt="" uk-cover>
+                <canvas width="300" height="200"></canvas>
+            </div>
+            <div>
+                <div class="uk-card-body">
+                    <h3 class="uk-card-title">Where will the activity be shown?</h3>
+                    <p>Whenever a new repository is created in your followed organizations. The activity will be added to your main GitHub feed.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="uk-section uk-section-primary uk-preserve-color" id="social-proof-section">
+        <div class="uk-container">
+
+            <div class="uk-grid-match uk-child-width-expand@m" uk-grid>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-body uk-text-center">
+                        <span class="uk-margin-small-right" uk-icon="users"></span>
+                        <span><b class="uk-text-success">Users</b> reached</span>
+                        <p><h1 class="uk-heading-medium uk-text-center uk-text-primary">102</h1></p>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-body uk-text-center">
+                        <span class="uk-margin-small-right" uk-icon="social"></span>
+                        <span><b class="uk-text-success">Organizations</b> followed</span>
+                        <p><h1 class="uk-heading-medium uk-text-center uk-text-primary">191</h1></p>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-body uk-text-center">
+                        <span class="uk-margin-small-right" uk-icon="bell"></span>
+                        <span><b class="uk-text-success">Activities</b> delivered</span>
+                        <p><h1 class="uk-heading-medium uk-text-center uk-text-primary">1021</h1></p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="uk-section" id="download-section">
+        <div class="uk-container">
+            <div class="uk-grid-match uk-child-width-expand@m" uk-grid>
+                <div class="button-effect">
+                    <button class="uk-button uk-padding-small uk-text-primary btn-custom">
+                        <img class="uk-margin-right" data-src="images/chrome-icon.svg" width="32" height="32" alt="" uk-img>
+                        Chrome Extension
+                    </button>
+                </div>
+                <div class="button-effect">
+                    <button class="uk-button uk-padding-small uk-text-primary btn-custom">
+                        <img class="uk-margin-right" data-src="images/firefox-icon.svg" width="32" height="32" alt="" uk-img>
+                        Firefox Addon
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="uk-grid-small uk-child-width-1-4@s uk-flex-center uk-text-center" uk-grid>
+        <div class="uk-hidden">
+            <div class="uk-card uk-card-default uk-card-body">Item 1</div>
+        </div>
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-placeholder">
+                    <span class="uk-label uk-label-primary">
+                        Adopter
+                        <img data-src="images/adopter-emoji.svg" width="32" height="32" alt="" uk-img>
+                    </span>
+                </div>
+                Follow upto 10 organizations
+                <hr>
+                <button class="uk-button uk-button-default free-price-btn">Free as in beer <img data-src="images/beer-emoji.svg" width="32" height="32" alt="" uk-img></button>
+            </div>
+        </div>
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-placeholder">
+                    <span class="uk-label uk-label-success">
+                        Supporter
+                        <img data-src="images/supporter-emoji.svg" width="32" height="32" alt="" uk-img>
+                    </span>
+                </div>
+                Follow all the organizations
+                <hr>
+                <button class="uk-button uk-text-bold uk-button-default">Buy License <img data-src="images/credit-card-emoji.svg" width="32" height="32" alt="" uk-img></button>
+            </div>
+        </div>
+        <div class="uk-hidden">
+            <div class="uk-card uk-card-default uk-card-body">Item 6</div>
+        </div>
+    </div>
+
+    <div class="uk-container uk-container-small uk-padding" id="faq-section">
+        <h2 class="uk-heading-divider">FAQ</h2>
+        <ul uk-accordion>
+            <li class="uk-open">
+                <a class="uk-accordion-title" href="#">What is Follow-Github-Organization?</a>
+                <div class="uk-accordion-content">
+                    <p>It's a browser extension that lets you follow a GitHub organization like you would follow a normal user account. It shows you new activities (repository creation as of now) in the organizations in your GitHub feed.</p>
+                </div>
+            </li>
+            <li class="uk-open">
+                <a class="uk-accordion-title" href="#">What if GitHub releases this as a feature?</a>
+                <div class="uk-accordion-content">
+                    <p>That's the point. Win-win situation. Mahatma Gandhi once said, "Create the pull request you want to see in the repository".</p>
+                </div>
+            </li>
+            <li>
+                <a class="uk-accordion-title" href="#">How much does it cost?</a>
+                <div class="uk-accordion-content">
+                    <p>There are two versions of it, "Adopter" and "Supporter". The former version is free of cost, the later costs $15.</p>
+                </div>
+            </li>
+            <li>
+                <a class="uk-accordion-title" href="#">What is the difference between Adopter and Supporter versions?</a>
+                <div class="uk-accordion-content">
+                    <p>The supporter version allows you to follow as many organizations as you want. Wherein the adopter version lets you follow only 10 organizations.</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</body>
 </html>
+
+
